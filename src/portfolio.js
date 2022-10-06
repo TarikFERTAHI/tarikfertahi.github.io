@@ -16,10 +16,10 @@ const greeting = {
   nickname: "Tarik / Tarik",
   full_name: "Tarik FERTAHI",
   subTitle:[
-    "Full Stack Developer. ",  "I’m currently learning Big Data and Cloud computing."
+    "Full Stack Spring / Angular Developer. ",  "I’m currently learning Big Data and Cloud computing."
   ],
   resumeLink:
-    "https://drive.google.com/file/d/1s_kdbyL50vsmyAfM1ou7bxl5LMy1KkHk/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y0FyP_cvyBfnOu4f-LMwvggkek0MbKac/view?usp=sharing",
   mail: "fertahitarik@gmail.com",
 };
 
@@ -75,13 +75,6 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
@@ -102,13 +95,13 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
+         {
+           skillName: "GraphQL",
+           fontAwesomeClassname: "simple-icons:graphql",
+           style: {
+             color: "#DE33A6",
+           },
+        },
         {
           skillName: "Android",
           fontAwesomeClassname: "simple-icons:android",
@@ -151,13 +144,13 @@ const skills = {
             color: "#4479A1",
           },
         },
-        {
+        /*{
           skillName: "jQuery",
           fontAwesomeClassname: "simple-icons:jquery",
           style: {
             color: "#0865A6",
           },
-        },
+        },*/
         {
           skillName: "Wordpress",
           fontAwesomeClassname: "simple-icons:wordpress",
