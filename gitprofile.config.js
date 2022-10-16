@@ -8,7 +8,7 @@ const config = {
     limit: 14, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['tarikfertahi.github.io', 'TarikFERTAHI'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -34,14 +34,9 @@ const config = {
     'Angular',
     'CSS',
     'Bootstrap',
-    'Natif Android',
     'Flutter',
     'Kafka',
     'JSON',
-    'XML',
-    'PHP',
-    'JavaScript',
-    'Node.js',
     'MongoDB',
     'PostgreSQL',
     'MySQL',
@@ -57,13 +52,13 @@ const config = {
   experiences: [
     {
       company: 'OCP (Office Cherifien des Phosphates)',
-      position: 'Developer Engineer',
+      position: 'Full Stack Developer Spring Boot / Angular',
       from: 'July 15, 2022',
       to: 'September 15, 2022',
     },
     {
       company: 'WOBY WEB MAROC',
-      position: 'Web Application Developer',
+      position: 'Web Developer',
       from: 'July 01, 2021',
       to: 'July 30, 2021',
     },
