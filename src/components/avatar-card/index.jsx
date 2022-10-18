@@ -19,11 +19,10 @@ const AvatarCard = ({ profile, loading, avatarRing, resume }) => {
         ) : (
           <div className="avatar opacity-90">
             <div
-              className={`mb-8 rounded-full w-32 h-32 ${
-                avatarRing
+              className={`mb-8 rounded-full w-32 h-32 ${avatarRing
                   ? 'ring ring-primary ring-offset-base-100 ring-offset-2'
                   : ''
-              }`}
+                }`}
             >
               {
                 <LazyImage
@@ -63,7 +62,7 @@ const AvatarCard = ({ profile, loading, avatarRing, resume }) => {
             download
             rel="noreferrer"
           >
-            Download Resume
+            See My Resume
           </a>
         )}
       </div>
