@@ -21,7 +21,7 @@ const config = {
     email: 'fertahitarik@gmail.com',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/file/d/1ptnH5XZ8jAjIXQ53PsKjYaXDjD2HL3Kl/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1SGOhU7QIJGXScdIQJl0wMQ7yEeZPRu3H/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C',
