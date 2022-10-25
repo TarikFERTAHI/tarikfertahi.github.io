@@ -29,7 +29,7 @@ const config = {
     'JAVA',
     'JavaFX',
     'JAVA JEE',
-    'Spring Boot',
+    'Spring',
     'TypeScript',
     'Angular',
     'CSS',
@@ -44,6 +44,10 @@ const config = {
     'Git',
     'GitHub',
     'Docker',
+    'Docker Swarm',
+    'VirtualBox',
+    'Vmware',
+    'vSphere',
     'UML',
     'Merise',
     'SCRUM',
@@ -53,7 +57,7 @@ const config = {
   experiences: [
     {
       company: 'OCP (Office Cherifien des Phosphates)',
-      position: 'Full Stack Developer Spring Boot / Angular',
+      position: 'Full Stack Developer Spring / Angular',
       from: 'July 15, 2022',
       to: 'September 15, 2022',
     },
