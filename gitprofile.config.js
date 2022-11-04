@@ -21,7 +21,7 @@ const config = {
     email: 'fertahitarik@gmail.com',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/file/d/1MU3I9uaXotLsD3wrdwpJOnJMR-Bzp1eT/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1O7IygVrd_l9dRCSJTFQP-TeRoldKJUUx/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C',
@@ -45,9 +45,10 @@ const config = {
     'GitHub',
     'Docker',
     'Docker Swarm',
+    'Kubernetes',
+    'Jenkins',
     'VirtualBox',
     'Vmware',
-    'vSphere',
     'UML',
     'Merise',
     'SCRUM',
@@ -94,7 +95,7 @@ const config = {
       to: '2020',
     },
     {
-      institution: 'Lycée Technique Med V Béni Mellal',
+      institution: 'Lycée Technique Med V Béni Mellal (Bac Pro)',
       degree: 'Professional Baccalaureat Maintenance & computer networks',
       from: '2015',
       to: '2018',
