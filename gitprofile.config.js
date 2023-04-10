@@ -14,14 +14,12 @@ const config = {
   social: {
     linkedin: 'tarik-fertahi',
     twitter: 'fertahitarik',
-    facebook: 'Tarik Fertahi',
-    instagram: 'fertahitarik',
     website: 'https://tarikfertahi.github.io/',
     phone: '+212642696589',
     email: 'fertahitarik@gmail.com',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/file/d/1O7IygVrd_l9dRCSJTFQP-TeRoldKJUUx/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1Ko6cop0tFRXdI6tapgmIL8OVx2SB8reK/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C',
@@ -41,6 +39,7 @@ const config = {
     'MongoDB',
     'PostgreSQL',
     'MySQL',
+    'Oracle DB',
     'Git',
     'GitHub',
     'Docker',
@@ -56,6 +55,12 @@ const config = {
     'Linux',
   ],
   experiences: [
+    {
+      company: 'IDEMIA Morocco',
+      position: 'Software Engineer',
+      from: 'February 01, 2023 ',
+      to: 'Present',
+    },
     {
       company: 'OCP (Office Cherifien des Phosphates)',
       position: 'Full Stack Developer Spring / Angular',
@@ -198,24 +203,24 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
+      //'cupcake',
+      //'bumblebee',
       //'emerald',
-      'corporate',
+      //'corporate',
       //'synthwave',
       //'retro',
       //'cyberpunk',
       //'valentine',
-      'halloween',
+      //'halloween',
       //'garden',
-      'forest',
+      //'forest',
       //'aqua',
       //'lofi',
       //'pastel',
       //'fantasy',
       //'wireframe',
       //'black',
-      'luxury',
+      //'luxury',
       //'dracula',
       //'cmyk',
       //'autumn',
@@ -223,9 +228,9 @@ const config = {
       //'acid',
       //'lemonade',
       //'night',
-      'coffee',
+      //'coffee',
       //'winter',
-      'procyon',
+      //'procyon',
     ],
 
     // Custom theme
